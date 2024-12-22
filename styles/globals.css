@@ -4,6 +4,20 @@
 @tailwind components;
 @tailwind utilities;
 
+/* sdley styles */
+/* styles.module.css */
+/* .masquer {
+  display: block; //  Affiche par défaut 
+} */
+
+@media (max-width: 575px) {
+  .sm-hidden {
+    display: none; /* Masque sur les appareils SM */
+  }
+}
+
+
+
 /* 
   Note: The styles for this gradient grid background is heavily inspired by the creator of this amazing site (https://dub.sh) – all credits go to them! 
 */
