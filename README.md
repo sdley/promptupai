@@ -41,6 +41,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ```
 ## Additional libraries 
 - bcrypt: hash passwords
-- mongodb
+- mongodb [mongodb Atlas]
 - mongoose: help manage our db
 - next-auth
